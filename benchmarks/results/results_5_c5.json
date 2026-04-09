@@ -1,0 +1,48 @@
+{
+  "requests": 5,
+  "concurrency": 5,
+  "total_time": 0.038594961166381836,
+  "average_latency": 0.020777559280395506,
+  "results": [
+    {
+      "input_text": "Benchmark prompt 0",
+      "status": 200,
+      "latency_sec": 0.0229947566986084,
+      "output": {
+        "response": "Benchmark prompt 0.5.0.0.0.0.0.0.0.0.0.0.0.0.0.0"
+      }
+    },
+    {
+      "input_text": "Benchmark prompt 1",
+      "status": 200,
+      "latency_sec": 0.023808002471923828,
+      "output": {
+        "response": "Benchmark prompt 1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0"
+      }
+    },
+    {
+      "input_text": "Benchmark prompt 2",
+      "status": 200,
+      "latency_sec": 0.01656508445739746,
+      "output": {
+        "response": "Benchmark prompt 2.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0"
+      }
+    },
+    {
+      "input_text": "Benchmark prompt 3",
+      "status": 200,
+      "latency_sec": 0.017843961715698242,
+      "output": {
+        "response": "Benchmark prompt 3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0"
+      }
+    },
+    {
+      "input_text": "Benchmark prompt 4",
+      "status": 200,
+      "latency_sec": 0.02267599105834961,
+      "output": {
+        "response": "Benchmark prompt 4.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0"
+      }
+    }
+  ]
+}

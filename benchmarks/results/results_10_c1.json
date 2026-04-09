@@ -1,0 +1,88 @@
+{
+  "requests": 10,
+  "concurrency": 1,
+  "total_time": 4.7095723152160645,
+  "average_latency": 0.4698577642440796,
+  "results": [
+    {
+      "input_text": "Benchmark prompt 0",
+      "status": 200,
+      "latency_sec": 0.006225109100341797,
+      "output": {
+        "response": "Benchmark prompt 0.5.0.0.0.0.0.0.0.0.0.0.0.0.0.0"
+      }
+    },
+    {
+      "input_text": "Benchmark prompt 1",
+      "status": 200,
+      "latency_sec": 0.005124807357788086,
+      "output": {
+        "response": "Benchmark prompt 1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0"
+      }
+    },
+    {
+      "input_text": "Benchmark prompt 2",
+      "status": 200,
+      "latency_sec": 0.004672050476074219,
+      "output": {
+        "response": "Benchmark prompt 2.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0"
+      }
+    },
+    {
+      "input_text": "Benchmark prompt 3",
+      "status": 200,
+      "latency_sec": 0.004106998443603516,
+      "output": {
+        "response": "Benchmark prompt 3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0"
+      }
+    },
+    {
+      "input_text": "Benchmark prompt 4",
+      "status": 200,
+      "latency_sec": 0.004411220550537109,
+      "output": {
+        "response": "Benchmark prompt 4.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0"
+      }
+    },
+    {
+      "input_text": "Benchmark prompt 5",
+      "status": 200,
+      "latency_sec": 0.9213731288909912,
+      "output": {
+        "response": "Benchmark prompt 5.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0"
+      }
+    },
+    {
+      "input_text": "Benchmark prompt 6",
+      "status": 200,
+      "latency_sec": 1.003896713256836,
+      "output": {
+        "response": "Benchmark prompt 6.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0"
+      }
+    },
+    {
+      "input_text": "Benchmark prompt 7",
+      "status": 200,
+      "latency_sec": 0.9151737689971924,
+      "output": {
+        "response": "Benchmark prompt 7.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0"
+      }
+    },
+    {
+      "input_text": "Benchmark prompt 8",
+      "status": 200,
+      "latency_sec": 0.917248010635376,
+      "output": {
+        "response": "Benchmark prompt 8.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0"
+      }
+    },
+    {
+      "input_text": "Benchmark prompt 9",
+      "status": 200,
+      "latency_sec": 0.9163458347320557,
+      "output": {
+        "response": "Benchmark prompt 9.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0"
+      }
+    }
+  ]
+}
