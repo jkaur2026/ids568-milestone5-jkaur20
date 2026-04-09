@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+transformers
+torch
+httpx
+psutil
+matplotlib
+numpy<2
+pydantic
